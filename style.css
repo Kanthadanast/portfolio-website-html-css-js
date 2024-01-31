@@ -23,7 +23,7 @@ header {
 }
 
 header.sticky {
-  background: crimson;
+  background: rgb(86, 96, 244);
   padding: 10px 100px;
 }
 
@@ -62,14 +62,14 @@ section {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(./images/99.jpg) no-repeat;
+  background: url(./images/01.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
 }
 
 .main .content {
-  max-width: 800px;
+  max-width: 400px;
 }
 
 .main .content h2 {
@@ -79,7 +79,7 @@ section {
 }
 
 .main .content h2 span {
-  font-size: 60px;
+  font-size: 55px;
   font-weight: 600;
 }
 
@@ -90,8 +90,8 @@ section {
 }
 
 .animated-text h3 {
-  color: crimson;
-  font-size: 52px;
+  color: rgb(86, 96, 244);
+  font-size: 40px;
   font-weight: 700;
   line-height: 70px;
   letter-spacing: 1px;
@@ -124,8 +124,8 @@ section {
 }
 
 .btn {
-  color: #fff;
-  background: crimson;
+  color: rgb(86, 96, 244);
+  background: rgb(254, 254, 255)on;
   font-size: 17px;
   font-weight: 600;
   display: inline-block;
@@ -139,8 +139,8 @@ section {
 }
 
 .btn:hover {
-  background: #fff;
-  color: #000;
+  background: rgb(86, 96, 244);
+  color: #ffffff;
 }
 
 .media-icons a {
@@ -159,7 +159,7 @@ section {
 
 .section-title {
   position: relative;
-  color: crimson;
+  color: rgb(86, 96, 244);
   font-size: 38px;
   font-weight: 800;
   margin-bottom: 60px;
@@ -172,7 +172,7 @@ section {
   left: 50%;
   width: 140px;
   height: 4px;
-  background: crimson;
+  background: rgb(86, 96, 244);
   transform: translateX(-50%);
 }
 
@@ -184,7 +184,7 @@ section {
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  background: crimson;
+  background: rgb(86, 96, 244);
   transform: translateX(-50%);
 }
 
@@ -339,7 +339,7 @@ section {
 }
 
 .services .card .service-icon {
-  color: crimson;
+  color: rgb(86, 96, 244);
   font-size: 120px;
   text-align: center;
   transition: transform .5s ease;
@@ -354,7 +354,7 @@ section {
 }
 
 .services .card .info h3 {
-  color: crimson;
+  color: rgb(86, 96, 244);
   font-size: 20px;
   font-weight: 700;
   margin: 10px;
@@ -429,7 +429,7 @@ section {
 }
 
 .contact .card .contact-icon {
-  color: crimson;
+  color: rgb(86, 96, 244);
   font-size: 60px;
   text-align: center;
   transition: transform .5s ease;
@@ -489,7 +489,7 @@ section {
 
 .contact-form .input-box .send-btn {
   color: #fff;
-  background: crimson;
+  background: rgb(86, 96, 244);
   display: inline-block;
   font-size: 19px;
   font-weight: 500;
@@ -561,7 +561,7 @@ section {
   }
 
   header .navigation a:hover {
-    background: crimson;
+    background: rgb(86, 96, 244);
     color: #fff;
   }
 
@@ -637,7 +637,7 @@ section {
 .scrollToTop-btn {
   z-index: 999;
   position: fixed;
-  background: crimson;
+  background: rgb(86, 96, 244);
   color: #fff;
   width: 45px;
   height: 45px;
