@@ -79,7 +79,7 @@ section {
 }
 
 .main .content h2 span {
-  font-size: 55px;
+  font-size: 600px;
   font-weight: 600;
 }
 
@@ -198,7 +198,7 @@ section {
 
 .about .content .col-left {
   position: relative;
-  width: 45%;
+  width: 50%;
 }
 
 .about .content .col-right {
@@ -223,7 +223,7 @@ section {
 }
 
 .about .content-title {
-  font-size: 26px;
+  font-size:40px;
   font-weight: 800;
   margin-bottom: 20px;
 }
